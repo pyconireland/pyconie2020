@@ -3,12 +3,18 @@
 
 
 ## Saturday Afternoon Session Session 1
-
+(3 45 minute Talks)
 ####  Selin Gunga
 
+* AWS
+
+#### David Curran
 
 
-## Saturday Afternoon Session 2 (30 minutes)
+
+
+## Saturday Afternoon Session 2 
+* (Six 30 minutes)
 				
 
 #### Carine-Belle + Yonatan
