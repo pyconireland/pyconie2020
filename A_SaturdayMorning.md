@@ -1,20 +1,77 @@
-##  Session A1 (90 minutes) 
+##  Session 1 (90 minutes) 
 *  9 30 minute Talks
 
-####  Olga Minguette
-####  Nahuel 
-####  Leticia Portella
+
+#### 	A.	Michael Burke				
+
+*	iOS malware detection with python: saving private Brian	
+*	iOS forensics and malware analysis 	
+
+#### 	B.	Fergal Reid	
+
+*	Pragmatic Machine Learning Product Development	
+*	Building Machine Learning products	
+
+#### 	C.	Stephen Finucane
+
+*	Will somebody *please* tell me what's going on?	
+*	Version management	
+
+#### 	D.	Vel Sailaja, Brian Neary, Juan Flores	
+
+*	Chaos Engineering	
+*	Chaos Engineering	
+
+#### 	E.	Olga Minguett	
+
+* Everybody wants DATA!!! 	
+*	Data privacy / protection 	
+
+#### 	F.	Eoghan O'Connell
+
+*	How can Python help to understand Atom Dynamics in Two-Dimensional Materials	
+*	Data Science; Python; Material Science	
+
+#### 	G.	Nahuel Sznajderhaus	
+*	Flask app with Twilio Programmable SMS API	
+*	web app	
+
+#### 	H.	Panos Christeas
+
+*	Automated Web-UI testing with behave-manners	
+*	Testing automation, BDD, Web	
+	
+#### 	I.	Stephen McCullough
+*	The Wire & Neo4j	
+*	graph database	
 
 
-##  Session A2 (90 minutes) 
+##  Session 2 (90 minutes) 
 
 * 6 45 minute Talks
 
-####  Allyn Hunt
+#### 1. Allyn Hunt
 
-####  Mihai Crivati
+#### 2. Johannes Ahlmann
+*  Must be Saturday
+#### 3. Brendan Tierney
+* Same session as Johannes Ahlmann
 
+#### 4. Sean Doherty 	
 
-#### Johannes Ahlmann
+* MicroPython fun on €10 hardware	
+* MicroPython running on ESP32 based microcontrollers.
+		
+#### 5. Stephen McEntee	
+* pflacs: Faster load cases and parameter studies	Using Python to automate and expedite the engineering design process.
+	
+#### 6. Nick Timkovich			
 
-####  Brendan Tierney
+#### 7. Mihai Criveti	
+* Automate Everything: Python DevOps flows with Ansible, Packer and Kubernetes	
+* (DevOps and Infrastructure as Code with Python and Ansible)
+		
+
+#### 8. Zoe Gadon-Thompson		
+* And for my next trick I will make this CSV into a gra-<”ParserError: Expected 1 fields in line 34, saw 2”>	
+* Open Data in Python, Data Visualisation in Python	
