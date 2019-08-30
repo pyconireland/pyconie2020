@@ -45,33 +45,45 @@
 *	The Wire & Neo4j	
 *	graph database	
 
+<hline>
 
 ##  Session 2 (90 minutes) 
 
-* 6 45 minute Talks
+* Six 45 minute Talks - 3 x 2 x 45 minbutes between 11:30 and 13:00
+* need to move 2
 
 #### 1. Allyn Hunt
 
+* Wants to be on on Saturday Morning
+
 #### 2. Johannes Ahlmann
+
 *  Must be Saturday
+
 #### 3. Brendan Tierney
+
 * Same session as Johannes Ahlmann
 
 #### 4. Sean Doherty 	
 
 * MicroPython fun on €10 hardware	
 * MicroPython running on ESP32 based microcontrollers.
+* Confirmed
 		
 #### 5. Stephen McEntee	
-* pflacs: Faster load cases and parameter studies	Using Python to automate and expedite the engineering design process.
+
+* pflacs: Faster load cases and parameter studies	
+* Using Python to automate and expedite the engineering design process.
 	
 #### 6. Nick Timkovich			
 
 #### 7. Mihai Criveti	
+
 * Automate Everything: Python DevOps flows with Ansible, Packer and Kubernetes	
 * (DevOps and Infrastructure as Code with Python and Ansible)
 		
 
 #### 8. Zoe Gadon-Thompson		
+
 * And for my next trick I will make this CSV into a gra-<”ParserError: Expected 1 fields in line 34, saw 2”>	
 * Open Data in Python, Data Visualisation in Python	
