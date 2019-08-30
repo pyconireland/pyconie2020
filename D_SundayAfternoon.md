@@ -1,6 +1,8 @@
 
 ## Session D 
 
+### 6 45 minutes Talks
+
 #### Brian Carter & Barry Reeves	
 * Push Over Pandas
 
@@ -11,9 +13,10 @@ How I made a python program to beat the game I couldn't
 AI, Reinforcement Learning
 
 #### Joe Drumgoole			
+* PyMongo
 
 #### Michele De Simoni			
-
+* TensorFlow
 #### Yiu Ming Huynh		
 * Telnyx			
       
