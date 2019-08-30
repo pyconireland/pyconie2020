@@ -3,7 +3,7 @@
 								
 #### A. Jan van der Vegt 
 
-#### N.. vijay ravindran									
+#### B. vijay ravindran									
 * cloud native transformation by autonomous infra-as-a-code
 * Sharing a success story from a community group
 	
