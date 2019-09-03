@@ -1,24 +1,32 @@
 
-## Session 3
+# Session 3
 
 * Saturday Afternoon Session 
-* (3 45 minute Talks)
-
-####  Selin Gunga
-
-* AWS
-
-#### David Curran
-
-* NLP Curation
+* (2 45 minute Talks)
+* Recruitment Session
 
 
 
-##  Session 4 
+#### 3.A. Sean Doherty 	
+
+* MicroPython fun on €10 hardware	
+* MicroPython running on ESP32 based microcontrollers.
+* Confirmed
+		
+#### 3.B. Mihai Criveti	
+
+* Automate Everything: Python DevOps flows with Ansible, Packer and Kubernetes	
+* (DevOps and Infrastructure as Code with Python and Ansible)
+
+#  Session 4 
 
 * Saturday Afternoon second session
-* (Six 30 minutes)
+* (Three 45 minutes Talks then six 30 minutes)
 				
+
+
+
+
 
 #### 1 .Carine-Belle + Yonatan
 
@@ -40,14 +48,12 @@
 * Python and the digital preservation of Ireland's moving image heritage	
 * Digital Preservation
 
-#### 5. Victoria Malone
 
-* The pivotal role of bioinformatics in cancer research	
-* Python in cancer / health research
-
-#### 6. Andrew Bolster
+#### 5. Andrew Bolster
 
 * Planning your Hackerspace with Python AKA Multivariate Timeseries Forecasting with Endogenous Factors	
 * python in finance, data science, forecasting, statistics
 				
-
+####  6. Selin Gunga
+* 30 minutes
+* AWS
