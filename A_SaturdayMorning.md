@@ -1,5 +1,5 @@
 ##  Session 1 (90 minutes) 
-*  9 30 minute Talks
+* Nine 30 minute Talks
 
 
 #### 	A.	Michael Burke				
@@ -25,7 +25,7 @@
 #### 	E.	Olga Minguett	
 
 * Everybody wants DATA!!! 	
-*	Data privacy / protection 	
+* Data privacy / protection 	
 
 #### 	F.	Eoghan O'Connell
 
@@ -55,35 +55,32 @@
 #### 1. Allyn Hunt
 
 * Wants to be on on Saturday Morning
+Allyn Hunt
+* Adding data visualisation to your Flask app with React Victory charts	
+* Web apps, data visualisation.
 
 #### 2. Johannes Ahlmann
 
-*  Must be Saturday
+* Must be Saturday
+* Leveraging Public APIs for Machine Learning Datasets	
+* PyData / Data Science
 
 #### 3. Brendan Tierney
 
-* Same session as Johannes Ahlmann
+* Planning my Summer Vacation using Python, Machine Learning, Google API and Cloud Database 	
+* To have fun while learning how Machine Learning can be used
+* PyData / Data Science
 
-#### 4. Sean Doherty 	
 
-* MicroPython fun on €10 hardware	
-* MicroPython running on ESP32 based microcontrollers.
-* Confirmed
-		
-#### 5. Stephen McEntee	
+#### 4. Stephen McEntee	
 
 * pflacs: Faster load cases and parameter studies	
 * Using Python to automate and expedite the engineering design process.
 	
-#### 6. Nick Timkovich			
+#### 5. Nick Timkovich			
 
-#### 7. Mihai Criveti	
 
-* Automate Everything: Python DevOps flows with Ansible, Packer and Kubernetes	
-* (DevOps and Infrastructure as Code with Python and Ansible)
-		
-
-#### 8. Zoe Gadon-Thompson		
+#### 6. Zoe Gadon-Thompson		
 
 * And for my next trick I will make this CSV into a gra-<”ParserError: Expected 1 fields in line 34, saw 2”>	
 * Open Data in Python, Data Visualisation in Python	
