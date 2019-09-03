@@ -43,22 +43,35 @@
 
 * Schedule close to lunchtime
 
+#### I. Paolo Gallone
+* Raincloud Plots
+
 <hline>
 
-## Session 6 (90 minutes) ##
+# Session 6 
 
+* 90 minutes
 * Eight 45 minute talks
 * 4 x 2 x 45 minutes
 * 11.30 to 13:00
 
-#### A. Jaime Buelta
+#### A. Stephane Wirtel
 
 #### B. Alon Nir
-
+* TBC
 
 #### C. Donal J Byrne 
 *  Autonomous Vehicles
 
-#### D. Shane Carey
+#### D. Joe Drumgoole			
+* PyMongo
 
-#### E. Guy Serbin
+#### E. Yiu Ming Huynh			
+
+#### F. David Gibbons			
+
+#### G. Michele De Simoni	
+* Tensorflow 2.0
+
+
+										
