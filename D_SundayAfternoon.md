@@ -1,34 +1,40 @@
 
-## Session 7 
+# Session 7
 
-### Six 45 minutes Talks
+* Three or four 45 minutes Talks
+* 15:00 - 15:45
 
-#### Brian Carter & Barry Reeves	
-* Push Over Pandas
+#### 7.A David Curran			
 
-#### Louise O'Connor
-
-#### Sanket Thakur
+#### 7.B Sanket Thakur
 
 * How I made a python program to beat the game I couldn't	
-* AI, Reinforcement Learning
+* AI, Reinforcement Learning	
 
-#### Joe Drumgoole			
+#### Jaime Buelta			
 
-* PyMongo
-
-#### Michele De Simoni			
-
-* TensorFlow
-
-#### Yiu Ming Huynh		
-
-* Telnyx			
-      
-#### David Gibbons			
+#### Guy Serbin
+* GIS SESSION
 
 <hline>
 
-## Session 8
+# Session 8
 
-#### Krunoslav Plecko 
+* 30 minutes talks
+* 16:15 to 17:45
+
+#### 8.A Brian Carter & Barry Reeves	
+* Push Over Pandas (Pydata)
+
+#### 8.B Leticia Portella
+
+#### 8.C Igor Da Souza
+
+#### 8.D shane carey
+* GIS SESSION
+
+
+#### 8.E Chris Owens
+* GIS SESSION
+
+#### 8.F  Krunoslav Plecko 
