@@ -1,86 +1,116 @@
-##  Session 1 (90 minutes) 
-* Nine 30 minute Talks
+
+## Saturday Morning Workshops 
+
+* Taking place between 09:30-13:00.
+* Coffee Break at 11:00-11:30
+
+* Telnyx Workshop (Room 4)
+* Python Music Workshop (Sky Room)
 
 
-#### 	A.	Michael Burke				
 
-*	iOS malware detection with python: saving private Brian	
-*	iOS forensics and malware analysis 	
 
-#### 	B.	Fergal Reid	
 
-*	Pragmatic Machine Learning Product Development	
-*	Building Machine Learning products	
 
-#### 	C.	Stephen Finucane
+#### Room 1 (Downstairs)
 
-*	Will somebody *please* tell me what's going on?	
-*	Version management	
+ 9:30-10:00 Fergal Reid		
 
-#### 	D.	Vel Sailaja, Brian Neary, Juan Flores	
+* Pragmatic Machine Learning Product Development
+* Building Machine Learning products
 
-*	Chaos Engineering	
-*	Chaos Engineering	
+10:00-10:30 Bethany Kok		
 
-#### 	E.	Olga Minguett	
+* Object-Oriented Data Science for Production
+* Data Science, OOP, production code
 
-* Everybody wants DATA!!! 	
-* Data privacy / protection 	
+10:30-11:00 Stephen McCullough		
 
-#### 	F.	Eoghan O'Connell
+* The Wire & Neo4j
+* Graph database
 
-*	How can Python help to understand Atom Dynamics in Two-Dimensional Materials	
-*	Data Science; Python; Material Science	
+#### Room 2	(Downstairs)
+		
+ 9:30-10:00 Olga Minguett		
 
-#### 	G.	Nahuel Sznajderhaus	
-*	Flask app with Twilio Programmable SMS API	
-*	web app	
+* Everybody wants DATA!!!
+* Data privacy / protection
 
-#### 	H.	Panos Christeas
+10:00-10:30 Davide Poggiali		
 
-*	Automated Web-UI testing with behave-manners	
-*	Testing automation, BDD, Web	
+* Robust and charming dataviz with RainCloud Plots	
+* Data visualisation in python
+
+10:30-11:00 Eoghan O'Connell		
+
+* How can Python help to understand Atom Dynamics in Two-Dimensional Materials
+* Data Science; Python; Material Science
+
+		
+#### Room 3	(Upstairs)
+		
+ 9:30-10:00 Nahuel Sznajderhaus		
+ 
+* Flask app with Twilio Programmable SMS API
+* Web apps
+
+10:00-10:30 Panos Christeas		
+
+* Automated Web-UI testing with behave-manners
+* Testing automation, BDD, Web
+		
+		
+		
+10:30-11:00 Vel Sailaja, Brian Neary, Juan Flores		
+
+* Chaos Engineering		
 	
-#### 	I.	Stephen McCullough
-*	The Wire & Neo4j	
-*	graph database	
+		
+## Coffee Break
 
-<hline>
+11:00 - 11:30 
 
-##  Session 2 (90 minutes) 
 
-* Six 45 minute Talks - 3 x 2 x 45 minbutes between 11:30 and 13:00
-* need to move 2
+## Talks Session 2
 
-#### 1. Allyn Hunt
+#### Room 1	(Downstairs)
 
-* Wants to be on on Saturday Morning
-Allyn Hunt
-* Adding data visualisation to your Flask app with React Victory charts	
+11:30-12:15 Allyn Hunt
+
+* Adding data visualisation to your Flask app with React Victory charts
 * Web apps, data visualisation.
 
-#### 2. Johannes Ahlmann
+12:15-13:00 Mihai Criveti
 
-* Must be Saturday
-* Leveraging Public APIs for Machine Learning Datasets	
-* PyData / Data Science
+* Automate Everything: Python DevOps flows with Ansible, Packer and Kubernetes
+* DevOps and Infrastructure as Code with Python and Ansible
 
-#### 3. Brendan Tierney
+#### Room 2	(Downstairs)
 
-* Planning my Summer Vacation using Python, Machine Learning, Google API and Cloud Database 	
-* To have fun while learning how Machine Learning can be used
-* PyData / Data Science
+11:30-12:15 Stephen McEntee
 
-
-#### 4. Stephen McEntee	
-
-* pflacs: Faster load cases and parameter studies	
+* pflacs: Faster load cases and parameter studies
 * Using Python to automate and expedite the engineering design process.
-	
-#### 5. Nick Timkovich			
+
+12:15-13:00 Yoni Lavi
+
+* Python iterators as a tool for analysing a social network
+* Learn how to use python iterators and generators through an example of analysing a Slack social network
 
 
-#### 6. Zoe Gadon-Thompson		
+#### Room 3	(Upstairs)
 
-* And for my next trick I will make this CSV into a gra-<”ParserError: Expected 1 fields in line 34, saw 2”>	
-* Open Data in Python, Data Visualisation in Python	
+11:30-12:15 David Curran
+* How to curate an NLP dataset with Python	* Data science, NLP
+
+
+12:15-13:00 Johannes Ahlesman
+* Leveraging Public APIs for Machine Learning Datasets
+* PyData / Data Science
+
+## Lunch
+
+* 13:00 -14:00
+
+
+
