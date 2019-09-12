@@ -1,77 +1,102 @@
 								
 ## Session 5 
 
-* Eight 30 minute talks
+* Six 30 minute talks
 * 10 am to 11 am
-								
-#### A. Jan van der Vegt 
-
-* 
-* 
-
-#### B. vijay ravindran									
-
-* cloud native transformation by autonomous infra-as-a-code
-* Sharing a success story from a community group
 	
-#### C. Dom Weldon
 
-* Dash: Interactive Data Visualization Web Apps with no Javascript	
-* Dash, web apps, data science
+### Room 1
 
-#### D. Ignasi Bosch
+10:00-10:30 Jan van der Vegt 
 
-* Unit and Integration Testing	
-* Testing
+* Dynamically generating schemas from arbitrary objects	
+* Data engineering
+ 
 
-#### E. Davide Poggiali 
-
-* Robust and charming dataviz with RainCloud Plots	
-* Data visualisation in python
-
-#### F. Arshdeep Kaur
-
-* Information extraction from social media (twitter) to facilitate crises informatics	
-* Data Science - Information Extraction, Text Analytics, Sentiment Analysis, Machine Learning 
-
-#### G. Louise O'Connor	
+10:30-11:00 Louise O'Connor	
 
 * The Gender Data Gap	 
 * The existence and consequences of gender bias in data particulary in relation to AI
 
-#### H. Tatiana Habru
 
-* Schedule close to lunchtime
+#### Room 2
 
-#### I. Paolo Gallone
-* Raincloud Plots
+10:00-10:30 Ignasi Bosch
 
-<hline>
+* Unit and Integration Testing	
+* Testing
 
-# Session 6 
+10:30-11:00 Gavin Choi
 
-* 90 minutes
-* Eight 45 minute talks
-* 4 x 2 x 45 minutes
-* 11.30 to 13:00
+#### Room 3
 
-#### A. Stephane Wirtel
+10:00-10:30 Arshdeep Kaur
 
-#### B. Alon Nir
-* TBC
+* Information extraction from social media (twitter) to facilitate crises informatics	
+* Data Science - Information Extraction, Text Analytics, Sentiment Analysis, Machine Learning 
 
-#### C. Donal J Byrne 
-*  Autonomous Vehicles
+10:30-11:00 Dom Weldon
 
-#### D. Joe Drumgoole			
+* Dash: Interactive Data Visualization Web Apps with no Javascript	
+* Dash, web apps, data science
+
+#### Room 4 (Not filmed)
+
+10:00-10:30 Shane Carey
+
+10:00-11:00 Chris Owens
+
+* Living Earth: Land cover mapping using the Open Data Cube	
+* Geospatial data science
+
+
+## Coffee Break
+
+* 11:00-11:30
+
+## Session 6
+
+* 11:30-13:00
+
+#### Room 1
+
+11:30-12:15 Joe Drumgoole			
+
 * PyMongo
 
-#### E. Yiu Ming Huynh			
+12:15-13:00 Yiu Ming Huynh
 
-#### F. David Gibbons			
+* Wrapping All Your Databases	
+* Database libraries
 
-#### G. Michele De Simoni	
-* Tensorflow 2.0
+#### Room 2
+
+11:30-12:15 Michele De Simoni	
+
+* TensorFlow 2.0: TensorFlow Strikes Back	
+* Introduction to TensorFlow 2.0
+
+12:15-13:00 Guy Serbin
+
+* The Irish Earth Observation (IEO) Python Module for Satellite Data Management	
+* Data management
 
 
-										
+#### Room 3
+
+11:30-12:15 
+
+12:15-13:00
+
+#### Room 4 (Not Filmed)
+
+
+11:30-12:15 Donal J Byrne 
+
+*  Autonomous Vehicles
+
+12:15-13:00 Victoria Malone
+
+* The pivotal role of bioinformatics in cancer research	
+* Python in cancer / health research
+* Bioinformatics
