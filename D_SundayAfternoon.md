@@ -1,30 +1,42 @@
 
 # Session 7
 
-* Three or four 45 minutes Talks
-* 15:00 - 15:45
+* Keynotes between 14:00 and 15:45
+* Room re-arrangement
+* Three 45 minutes Talks between  15:00 - 15:45
 
-#### 7.A David Curran			
-* NLP Curation
+### Keynote
 
-#### 7.B Sanket Thakur
+14:00 -15:00 Cheuk-Ho Ting
+
+
+
+#### Room 1
+
+* 15:00 - 15:45 Nick Timkovich 
+
+#### Room 2
+
+15:00 - 15:45 Sanket Thakur
 
 * How I made a python program to beat the game I couldn't	
 * AI, Reinforcement Learning	
 
-#### Jaime Buelta			
+#### Room 3
+
+15:00 - 15:45 Jaime Buelta			
+
 * Emotional Demands of Being A Software Engineer
 
-#### Guy Serbin
-* GIS SESSION
-* Earth Observation Analytics
+
 
 <hline>
 
 # Session 8
 
-* Maximum of Twelve 30 minutes talks
+* Maximum of Nine 30 minutes talks
 * 16:15 to 17:45
+* Times and Rooms not allocated yet
 
 #### 8.A Brian Carter & Barry Reeves	
 * Push Over Pandas (Pydata)
@@ -37,18 +49,14 @@
 * Turning the database inside-out with Oracle OCI Streaming	
 * Stream Processing, Data Lake, Framework, Big Data
 
-#### 8.D Shane Carey
-* GIS SESSION
-
-#### 8.E Chris Owens
-* GIS SESSION
-
-#### 8.F  Krunoslav Plecko 
+#### 8.D  Krunoslav Plecko 
 
 * Visualising Youtube video context (NLP pipeline)	
 * Data science
 
-#### 8.G. Victoria Malone
 
-* The pivotal role of bioinformatics in cancer research	
-* Python in cancer / health research
+
+
+		
+		
+				
