@@ -3,7 +3,7 @@
 
 #### Keynotes
 
-14:00-15:00 Keynote Nick Timknovich
+14:00-15:00 Keynote Nick Timkovich
 * Rooms 1 and 2
 
 
