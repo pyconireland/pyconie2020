@@ -101,7 +101,9 @@
 #### Room 3	(Upstairs)
 
 11:30-12:15 David Curran
-* How to curate an NLP dataset with Python	* Data science, NLP
+
+* How to curate an NLP dataset with Python	
+* Data science, NLP
 
 
 12:15-13:00 Johannes Ahlesman
