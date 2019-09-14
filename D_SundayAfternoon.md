@@ -24,9 +24,8 @@
 
 #### Room 3
 
-15:00 - 15:45 Jaime Buelta			
-
-* Emotional Demands of Being A Software Engineer
+15:00 - 15:45 Brian Carter & Barry Reeves	
+* Push Over Pandas (Pydata)
 
 
 
@@ -34,22 +33,20 @@
 
 # Session 8
 
-* Maximum of Nine 30 minutes talks
-* 16:15 to 17:45
+* Eight 30 minutes talks
+* 16:15 to 17:20
 * Times and Rooms not allocated yet
+ 
 
-#### 8.A Brian Carter & Barry Reeves	
-* Push Over Pandas (Pydata)
-
-#### 8.B Leticia Portella
+#### 8.A Leticia Portella
 * What's beyond Django Girls tutorial: an introduction to Class Based Views	
 * Web apps - Django
 
-#### 8.C Igor Da Souza
+#### 8.B Igor Da Souza
 * Turning the database inside-out with Oracle OCI Streaming	
 * Stream Processing, Data Lake, Framework, Big Data
 
-#### 8.D  Krunoslav Plecko 
+#### 8.C  Krunoslav Plecko 
 
 * Visualising Youtube video context (NLP pipeline)	
 * Data science
