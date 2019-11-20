@@ -4,7 +4,7 @@ Please note some key considerations:
 
 IMPORTANT: Please secure your accomodation as soon as possible.
 
-There is alway events taking place in the city each weekend. You can mitigate costs by booking something immediately.
+There is always events taking place in the city each weekend. You can mitigate costs by booking something immediately.
 
 
 ### 2. The "Everyone Pays" Principle:
@@ -21,7 +21,7 @@ jessenoller.com/blog/2011/05/25/pycon-everybody-pays
 We point out that there are contingencies for financial aid assistance. Revert to myself if this is something you wish to discuss.
 
 
-### 3. Youtube
+### 3. Youtube:
 
 
 Please note that there will be video recording of the talks, which will then be published on Youtube under the Youtube licence:
